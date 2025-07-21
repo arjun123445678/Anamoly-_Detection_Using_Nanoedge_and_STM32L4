@@ -31,7 +31,7 @@ This project showcases a real-time anomaly detection application built on the ST
 |-------------------|------------------------------------|
 | `Core/`           | Source and header files            |
 | `Drivers/`        | HAL and BSP drivers                |
-| `EdgeAI_Model/`   | NanoEdge AI model files            |
+| `NEAI_Lib/`   | NanoEdge AI model files            |
 | `Docs/`           | Diagrams, notes, images            |
 
 ---
